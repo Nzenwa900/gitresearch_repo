@@ -1,0 +1,20 @@
+GitInit
+ GitCommit
+ GitAdd
+ GitStatus
+ GitMerge
+ GitPush
+ GitPull
+ GitClone
+ Gitbranch
+ GitCheck-out
+ GitConfig
+ GitDiff
+ GitLog
+ GitReset
+ GitRebase
+
+GitPull: is used to fetch the new commits and merge them into the local branch
+GitRebase: these refers to the moving or combing a sequence of commits.the gitrebase command is used to integrate changes from one branch to the other.
+GitMerge: these is used to intergrate different branches into a single branch
+PullRequest:its a way of submitting code contributions to an ongoing project where you are not the sole developer.≈
